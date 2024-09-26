@@ -1,4 +1,4 @@
-# Practica_4
+# Práctica 4
 
 ## Integrantes:
 - Luis Fernando Duarte Reséndiz.
