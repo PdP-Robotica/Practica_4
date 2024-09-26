@@ -11,7 +11,7 @@
 
 ## Introducción 
 
-El uso de brazos robóticos ha convertido en un componente esencial para la optimización de la eficiencia y la productividad dentro de diferentes entornos industriales. Su capacidad de asumir tareas repetitivas y de alta precisión, ha permitido su integración dentro de diversas áreas. Dentro de la presente práctica se demostrará la capacidad del robot Epson para la realizar una secuencia de movimientos programados con el software Epson RC+ 7.0, permitiendo apilar una serie de 4 fusibles de manera precisa. Requiriendo un nivel elevado de exactitud para garantizar la estabilidad de la de la pila y evitar su colapso.
+El uso de brazos robóticos se ha convertido en un componente esencial para la optimización de la eficiencia y la productividad dentro de diferentes entornos industriales. Su capacidad de asumir tareas repetitivas y de alta precisión, ha permitido su integración dentro de diversas áreas. Dentro de la presente práctica se demostrará la capacidad del robot Epson para la realizar una secuencia de movimientos programados con el software Epson RC+ 7.0, permitiendo apilar una serie de 4 fusibles de manera precisa. Requiriendo un nivel elevado de exactitud para garantizar la estabilidad de la de la pila y evitar su colapso.
 
 ## Instrucciones
 
