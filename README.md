@@ -143,3 +143,21 @@ Dentro del ciclo for se ejecuta lo siguiente:
 
 Una vez terminado el código, se compila y carga al brazo para su ejecución.
 
+https://github.com/user-attachments/assets/129f6279-a942-4b1e-9d03-f1bfc3109abd
+
+## Conclusiones
+- Luis Fernando Duarte Reséndiz.
+- 
+La automatización mediante brazos robóticos no solo mejora la eficiencia, sino que también permite la adaptación de procesos a las características específicas de los objetos manipulados. En el caso del dispensador de fusibles, ajustar la posición en función de la altura de los fusibles demuestra cómo la robótica puede ser integrada de manera flexible en diversas aplicaciones industriales, facilitando un futuro más innovador en la manufactura.
+
+- Mauricio Alberto Gómez Arroyo.
+
+La implementación de brazos robóticos en procesos de apilación, como se vio en esta práctica, demuestra cómo la automatización puede mejorar significativamente la precisión y la eficiencia en entornos industriales. La capacidad de programar movimientos exactos reduce el riesgo de errores y optimiza el tiempo de producción, lo que resulta en una operación más segura y efectiva.
+
+- Diego Brandon Guzmán Sierra.
+
+La correcta calibración de las posiciones en la automatización es fundamental para asegurar que los procesos se realicen de manera efectiva. La atención a detalles como la altura de los objetos a apilar no solo garantiza un funcionamiento adecuado, sino que también previene problemas potenciales, como la inestabilidad de la carga. Esto resalta la necesidad de una planificación cuidadosa en la programación de sistemas robóticos.
+  
+- Bryan Hiadim Vera Hernández.
+
+La utilización de variables en la programación de brazos robóticos demuestra cómo la personalización de procesos puede optimizar el rendimiento. Ajustar los parámetros para adaptarse a las características específicas de los objetos a manipular permite mejorar la eficiencia y la precisión. Este enfoque refuerza la idea de que la automatización debe ser flexible y adaptable para enfrentar los desafíos de diferentes entornos industriales.
