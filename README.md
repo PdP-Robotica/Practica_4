@@ -113,3 +113,33 @@ Los comando más importantes utilizados en el programa son:
   </tbody>
 </table>
 
+Ahora bien, el código realiza los siguiente pasos:
+
+1.- Abrir la pinza: Incia con la apertura de la pinza para evitar colisiones al momento de tomar el fusible
+
+2.- Ir a la posición Home: Esto asegura que el movimiento inicia en la posición Home (Posición establecida en prácticas anteriores)
+
+3.- Declarar variable: Declara dos variables que van a permitir la generación de un ciclo for
+
+4.- Generar ciclo for: Es necesario el uso de un ciclo for, como se va a tomar el fusible de la misma posición las 4 veces, es necesario repetir las acciones. Este ciclo inicia con la variable "i" en 0 y termina cuando esta obtiene un valor de 3, resultando en las 4 iteraciones necesarias para apilar 4 fusibles.
+
+Dentro del ciclo for se ejecuta lo siguiente:
+
+1.- Ir a la posición "Arriba": Posiciona el brazo encima del dispensador de fusibles
+
+2.- Ir a la posición "Agarrar": Baja el brazo para poder tomar el fusible con la pinza. **Nota: Se utiliza el comando Move para realizar una trayectoria completamente recta y evitar colisiones al momento de sujetar el fusible**
+
+3.- Cierra la pinza
+
+4.- Vuelve a la posición "Arriba": Posiciona de nuevo el brazo en la parte superior, para poder extraer el fusible del dispensador
+
+5.- Ir a la posición "Home": Posiciona el brazo en "Home" para evitar colisiones al momento de soltar el fusible
+
+6.- Ir a la posición "Soltar": Manda el brazo a la posición donde se soltarán los fusibles. Dentro de esta posición es necesario ajustar el eje Z. Dado que los fusibles se apilarán, se debe tener en cuenta la altura del fusible anterior para determinar la posición del siguiente. Para esto, utilizamos la variable 'f', que se declaró anteriormente con un valor de 10.5 mm (1.05 cm), aproximadamente el ancho de un fusible. Este valor se multiplica por 'i', que indica cuántos fusibles ya se han colocado. De esta manera, se pueden apilar los cuatro fusibles, considerando la variación en sus alturas.
+
+7.- Regresar a la posición "Home": Una vez soltado el fusible regresa a la posición "Home" para repetir el proceso.
+
+## Ejecución
+
+Una vez terminado el código, se compila y carga al brazo para su ejecución.
+
